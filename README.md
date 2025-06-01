@@ -1,4 +1,4 @@
-#Simon say 
+# Simon say 
 
 This is basically digital version of simon say game in which the player must repeat increasingly long sequence of flashes and sounds in correct order. The challenge rams up as each level add a new color to the sequence.
 
